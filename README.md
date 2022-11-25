@@ -25,7 +25,7 @@ If you have never played Ludo there is a "How To Play" button in main menu expla
 
 ![](Images/Game_Play.png)
 
-### Map: Colloseum
+### Map: Colosseum
 
 ![](Images/Colloseum.png)
 
