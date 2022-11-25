@@ -2,8 +2,7 @@
 This is my first ever game created in Unity as part of an internship at Politechnika Częstochowska.
 
 # Description
-The goal of this project was to create a game that takes a simple board game like Ludo and allows players to take their gameplay into diffrent interesting locations and
-adding more customization than the original Ludo.
+The goal of this project was to create a game that takes a simple board game like Ludo, add customisation options and allow players to take their gameplay into diffrent interesting locations.
 
 # How to play
 To start the game you have to go into Build folder and open Ludo3D.exe file (red stone icon).
@@ -22,11 +21,14 @@ If you have never played Ludo there is a "How To Play" button in main menu expla
 * Two supported languages (PL, EN)
 
 # Preview
-Map: Cabins
+###Map: Cabins
+
 ![](Images/Game_Play.png)
 
-Map: Colloseum
+###Map: Colloseum
+
 ![](Images/Colloseum.png)
 
-Menu
+###Menu
+
 ![](Images/Starting_Options.png)
