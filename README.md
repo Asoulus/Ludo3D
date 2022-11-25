@@ -24,11 +24,11 @@ If you have never played Ludo there is a "How To Play" button in main menu expla
 ### Map: Cabins
 
 ![](Images/Game_Play.png)
-
+---
 ### Map: Colosseum
 
 ![](Images/Colloseum.png)
-
+---
 ### Menu
 
 ![](Images/Starting_Options.png)
