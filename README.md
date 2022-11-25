@@ -21,14 +21,14 @@ If you have never played Ludo there is a "How To Play" button in main menu expla
 * Two supported languages (PL, EN)
 
 # Preview
-###Map: Cabins
+### Map: Cabins
 
 ![](Images/Game_Play.png)
 
-###Map: Colloseum
+### Map: Colloseum
 
 ![](Images/Colloseum.png)
 
-###Menu
+### Menu
 
 ![](Images/Starting_Options.png)
